@@ -11,10 +11,10 @@ function Resume() {
             technical background.
           </p>
           <div className="resume-actions">
-            <a className="primary-btn" href="/Ashish_Shrivastav_Final_Resume.pdf" target="_blank" rel="noopener noreferrer">
+            <a className="primary-btn" href="/Ashish_Shrivastav_Resume.pdf" target="_blank" rel="noopener noreferrer">
               View Resume <span>↗</span>
             </a>
-            <a className="secondary-btn" href="/Ashish_Shrivastav_Final_Resume.pdf" download>
+            <a className="secondary-btn" href="/Ashish_Shrivastav_Resume.pdf" download>
               Download PDF <span>↓</span>
             </a>
           </div>
