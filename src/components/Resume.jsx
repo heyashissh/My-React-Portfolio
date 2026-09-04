@@ -4,7 +4,7 @@ function Resume() {
       <div className="section-heading"><span className="section-number">05</span><span>Resume</span></div>
       <div className="resume-layout">
         <div className="resume-copy">
-          <p className="eyebrow">My professional profile</p>
+          <p className="eyebrow">My professional profile.</p>
           <h2>Want to know more <span className="accent">about me?</span></h2>
           <p>
             Explore my resume for a quick overview of my skills, experience, education and
